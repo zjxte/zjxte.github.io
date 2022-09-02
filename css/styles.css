@@ -129,7 +129,7 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: calc(1.3rem + 0.6vw);
-  color:#ff3399;
+  color:#0818A8;
 }
 @media (min-width: 1200px) {
   h3, .h3 {
